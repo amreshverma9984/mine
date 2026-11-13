@@ -1,5 +1,6 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main (){
-    cout<<"amresh verma";
+int main()
+{
+    cout << "amresh verma";
 }
